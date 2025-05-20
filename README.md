@@ -10,7 +10,10 @@
 7. Set
 
 ## Brute Force
-
+1. permutation
+2. combination
+3. 2309
+4. 
 ## Greedy
 
 ## DFS, BFS, Backtracking
